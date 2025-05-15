@@ -1,0 +1,31 @@
+*{
+    background-color: #121212;
+    color: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+h2 {
+    padding: 0px 0px 0px 20px;
+    color: #bb86fc;
+}
+
+img {
+    border: 10px solid #727171;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+#texto {
+    text-align: justify;
+    padding: 0px 0px 0px 0px;
+}
+
+p {
+    padding: 0px 0px 0px 40px;
+}
+
